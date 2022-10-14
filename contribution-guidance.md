@@ -37,4 +37,5 @@
 - Add action required comments where a developer needs to take an action, starting with `<!--Sample action required: -->`
 - Remove you tenant name (use `yourtenant` instead), and application IDs
 
-
+## User Message
+ - B2C_1A_TrustFrameworkLocalization file is use to change success/Fail message
